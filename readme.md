@@ -4,4 +4,4 @@
 
 2. isvedam i konsole visus savo kintamiuosiu atskirai
 
-3. atspausdinam konsoleje savo megstamiausio skaiciau ir dienos daugyba
+3. atspausdinam konsoleje savo megstamiausio skaiciaus ir dienos daugyba
