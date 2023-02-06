@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Js intro</title>
+  <!-- cia pridesim cia js failus -->
+  <!-- pasakyti narsyklei kad pirma uzkrauti visa puslapio html ir tik tada paleisti js faila. DEFER -->
+  <!-- <script src="main.js" defer></script> -->
+  <script src="operators.js" defer></script>
+</head>
+
+<body>
+  <script>
+    // cia h1 elemento dar narsyske nenupiese
+    // gaunam klaida, nes h1 dar nenupiestas
+    // console.log(document.getElementById('title').textContent);
+  </script>
+  <h1 id="title">Js intro</h1>
+
+  <script>
+    // Js erdve galim rasyti js koda
+
+    console.log('console.log yra budas atvaizduoti kazka konsoleje');
+
+    5 + 5;
+
+    console.log(5 + 5);
+
+    // alert('Svarbus pranesimas');
+
+    // gauti h1 texta
+
+    // sukurti kintamaji
+    let mainTitleText = document.getElementById('title').textContent
+
+    console.log(mainTitleText);
+
+
+
+  </script>
+  <!-- <script src="main.js"></script> -->
+</body>
+
+</html>
