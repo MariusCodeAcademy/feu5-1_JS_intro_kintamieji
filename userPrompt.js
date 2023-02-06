@@ -12,4 +12,8 @@ let sk2 = prompt('antras sk');
 
 let daugyba = sk1 * sk2;
 
-console.log(daugyba);
+let info = `${sk1} padaugintas is ${sk2} yra lygu ${daugyba}`;
+
+console.log(info);
+
+document.getElementById('title').textContent = info;

@@ -43,3 +43,6 @@ reiskme = 'jau dabar yra';
 console.log(reiskme); // 'jau dabar yra'
 
 // let hiText = 54; // negalima redeklaruoti kintamuju pavadinumu
+
+// document.getElementById('app').textContent = '<h2>helooo</h2>';
+document.getElementById('app').innerHTML = '<h2>helooo</h2>';
