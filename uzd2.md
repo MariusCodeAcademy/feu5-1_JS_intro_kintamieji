@@ -13,3 +13,8 @@ paprasyti ivesti megstamiausia skaiciu (pvz: 11)
 2.3 isvesti: "Vartotojas ivede skaicius 08, 17, 11. Ju suma yra 36, o daugyba yra 1496"
 
 2.4 isvesti : "visu ivestu skaiciu vidurkis yra 496.66 "
+
+## 3 uzduotis
+
+3.1 Paprasyti ivesti temperatura laipsniais celsijaus ir atspausdinti:
+"xx laipsniai celsijaus yra lygus xx laipsniams Fareiheito"
