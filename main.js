@@ -46,3 +46,9 @@ console.log(reiskme); // 'jau dabar yra'
 
 // document.getElementById('app').textContent = '<h2>helooo</h2>';
 document.getElementById('app').innerHTML = '<h2>helooo</h2>';
+
+let rez = x / y;
+
+let rezRounded = rez.toFixed(2);
+
+console.log(rezRounded);
